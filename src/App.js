@@ -3,7 +3,7 @@ import Home from "./container/home";
 
 function App() {
    return (
-      <div className="container">
+      <div className="text-red-700 text-center">
          <Home />
       </div>
    );
